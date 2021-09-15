@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>gouvparking</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_fences</Item>
+        <Item>v_utility</Item>
+        <Item>v_set_pieces</Item>
+        <Item>v_trees</Item>
+        <Item>v_traffic_lights</Item>
+        <Item>v_airport</Item>
+        <Item>v_construction</Item>
+        <Item>v_fences_2</Item>
+        <Item>v_signs</Item>
+        <Item>v_minigame</Item>
+        <Item>v_sports</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>ligth</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_airport</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>tree</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_trees</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>

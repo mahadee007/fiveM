@@ -1,0 +1,32 @@
+html { overflow-x: hidden !important; overflow-y: hidden !important; background-color: transparent !important;}
+
+body {background-color: transparent !important;}
+
+
+.alert {
+    position: relative;
+}
+
+#success {
+    background-color: #0984e3;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    width: 250px;
+    left: 1600px;
+    padding: 8px;
+    margin: 20px;
+    top : 100px;
+}
+
+#error {
+    background-color: #e74c3c;
+    width: 250px;
+    left: 1600px;
+    top : 100px;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    font-weight: 400;
+    margin: 20px;
+}
